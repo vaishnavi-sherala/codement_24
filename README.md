@@ -12,5 +12,4 @@ Get virtual consultations with remote doctors through a video call.
 Generate automated medicine notifications for Asha workers to deliver essential medications.
 AI component of the kiosk can provide preliminary diagnostic support to ASHA workers, referrals by connecting ASHA workers with healthcare professionals.
 streamlines data collection and reporting processes for ASHA workers.
-Provides kiosk's educational features to conduct health awareness. sessions, deliver preventive healthcare messages, and promote healthy behaviors within the community. 
-
+Provides kiosk's educational features to conduct health awareness. sessions, deliver preventive healthcare messages, and promote healthy behaviors within the community.
